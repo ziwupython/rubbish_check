@@ -9,7 +9,9 @@
 ![img_05_10_18_49_34 - 副本](https://github.com/ziwupython/rubbish_check/assets/133186350/82d05289-89bc-4342-b2c5-127272347610)
 
 ## 演示视频
-视频地址：https://www.yuque.com/ziwu/yygu3z/lwutss28pac54l3n
+
+视频地址和源码获取方式：https://www.yuque.com/ziwu/yygu3z/lwutss28pac54l3n
+
 
 ## 实现步骤
 ● 首先收集需要识别的种类数据集
